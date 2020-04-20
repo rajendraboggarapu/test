@@ -26,5 +26,12 @@ namespace Git_Testing_application.Controllers
 
             return View();
         }
+
+        public ActionResult Support()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
