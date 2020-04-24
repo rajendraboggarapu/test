@@ -1,0 +1,3 @@
+this file is create to check the fetch.
+this file is checked in in the different branch and fetching from another branch.
+when i click on fetch every commits should clone to the local branch irrespective of the branch.
